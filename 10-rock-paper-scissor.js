@@ -7,6 +7,8 @@
 
 updateScoreElement();
 
+// comment
+
 /*
 if (!score) {
   score = {
